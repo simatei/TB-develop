@@ -6,4 +6,4 @@ Install Docker and Docker-compose
 
 Run `docker-compose up`
 
-Go to `<your-ip:8080>`
+Go to `<your-ip:8080>` e.g `localhost:8080`
